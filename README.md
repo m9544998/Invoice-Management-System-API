@@ -1,11 +1,11 @@
-# Invoice-Management-System-API
-# Invoice Management System API
 
+# Invoice Management System API
+---
 A RESTful API built using Flask and SQLite to manage customer invoices.
 
 This project allows users to create, view, and delete invoices.
 ```
-
+---
 - Python 3
 - Flask
 - SQLite3
